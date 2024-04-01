@@ -50,3 +50,11 @@ function Produtos() {
 }
 
 export default Produtos;
+
+// O componente `Produtos` é uma seção de uma aplicação Next.js que exibe três serviços: DataCloud, Customer 360 e Einstein AI. 
+// Cada serviço é apresentado com uma imagem, um título e uma descrição, seguindo um layout de grid. 
+// Utiliza o componente `Image` do Next.js para carregar imagens de forma otimizada e acessível. 
+// O estilo de cada item de serviço é definido inline, com cores de fundo distintas para diferenciação. 
+// O componente também inclui um texto adicional sobre transformação digital focada no cliente. 
+// Este componente é um exemplo de como criar uma interface de usuário clara e organizada, demonstrando o uso eficaz de componentes do Next.js
+// e considerações de acessibilidade e design responsivo.
