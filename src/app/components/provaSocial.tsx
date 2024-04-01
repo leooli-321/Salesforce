@@ -1,9 +1,8 @@
-#codigo comitado com alguns erros devido que não estou conseguindo localizar
 function ProvaSocial() {
     return (
 
         <section className="section pricing" id="pricing">
-            <div className="container"
+            <div className="container">
                 {/* section title */}
                 <h2 className="section-title padd-15">Clientes reais. Sucesso real.</h2>
                 <h3 className="section-subtitle padd-15">Saiba como os Trailblazers alcançam o sucesso com o ecossistema completo de apps,
@@ -13,7 +12,7 @@ function ProvaSocial() {
                     <div className="prices">
                         <div className="price-item">
                             <img src="https://i.ibb.co/VvY6Gkr/loreal.png" alt="Equipe Loreal" />
-                            <h3 className="plan">L’Oréal</h3
+                            <h3 className="plan">L’Oréal</h3>
                             <p>"Os produtos da Salesforce nos ajudaram
                                 a gerar de 15% a 20% de vendas para uma
                                 de nossas marcas B2C." — Asmita Dubey,
@@ -32,10 +31,10 @@ function ProvaSocial() {
                                 informações de que os consultores precisam
                                 estão a um clique." — Greg Beltzer,
                                 Diretor de Tecnologia da RBC Wealth Management - EUA</p>
-             </div>
+                        </div>
                     </div>
                     {/* prices */}
-                    <div className="prices>
+                    <div className="prices">
                         <div className="price-item">
                             <img src="https://i.ibb.co/P9k6nrq/smartrent.png" alt="Equipe SmartRent" />
                             <h3 className="plan">SmartRent</h3>
@@ -48,9 +47,9 @@ function ProvaSocial() {
                 </div>
             </div>
 
-            <div className=container3">
+            <div className="container3">
 
-                         <a href/Cadastro" className="btn btn-default">EXPERIMENTE GRATUITAMENTE</a>
+                    <a href="/Cadastro" className="btn btn-default">EXPERIMENTE GRATUITAMENTE</a>
             </div>
         </section>
     )
