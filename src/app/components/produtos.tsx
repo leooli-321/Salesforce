@@ -1,14 +1,15 @@
 // Importando o componente Image do Next.js
 import Image from 'next/image'
 
+// Função para definição dos produtos
 function Produtos() {
     return (
         <section className="services section">
             <div className="container">
-                {/* section title */}
+                {/* Título */}
                 <h2 className="section-title padd-15">Produtos</h2>
                 <div className="row">
-                    {/* service item */}
+                    {/* Serviço Data Cloud*/}
                     <div className="service-item padd-15">
                         <div className="service-item-inner" style={{ background: "#0F3A76" }}>
                             <Image src="https://i.ibb.co/897wSMc/datacloud.png" alt="DataCloud" width={137} height={104} />
@@ -19,7 +20,7 @@ function Produtos() {
                                 e criar experiências encantadoras.</p>
                         </div>
                     </div>
-                    {/* service item */}
+                    {/* Serviço Costumer 360 */}
                     <div className="service-item padd-15">
                         <div className="service-item-inner" style={{ background: "#6C6CE5" }}>
                             <Image src="https://i.ibb.co/wcrD6FF/costumer360.png" alt="Costumer 360" width={148} height={133} />
@@ -31,7 +32,7 @@ function Produtos() {
                         </div>
                     </div>
                     
-                    {/* service item */}
+                    {/* Serviço Einstein AI */}
                     <div className="service-item padd-15">
                         <div className="service-item-inner" style={{ background: "#F97B8B" }}>
                             <Image src="https://i.ibb.co/R7ctnRf/einsteinai.png" alt="Einstein AI" width={132} height={107} />
