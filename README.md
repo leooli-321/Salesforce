@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Salesforce
 
-## Getting Started
+## Introdução
+O Projeto **TalkBility** é uma versão simplificada e intuitiva do site oficial da Salesforce. Desenvolvido como parte de um trabalho acadêmico, o objetivo é atender a diversos públicos, fornecendo informações essenciais sobre os produtos e serviços da Salesforce de forma clara e concisa.
 
-First, run the development server:
+## Conteúdo
+O projeto inclui as seguintes seções:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Página Inicial (Home)
+- Apresenta uma breve introdução à Salesforce e destaca os principais recursos.
+- Inclui o mascote da Salesforce, o **Astro**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Produtos
+- Descreve os principais produtos oferecidos pela Salesforce.
+- Destaca os benefícios de cada produto.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Customer 360
+- Explica como o **Salesforce Customer 360** impulsiona vendas, marketing e satisfação do cliente.
+- Oferece uma visão compartilhada para melhorar a experiência do cliente.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Einstein AI
+- Apresenta o uso do **Slack** para comunicação, o **Einstein AI** para produtividade e empatia, e o **Trailhead** para aprendizado.
 
-## Learn More
+### Teste Grátis
+- Incentiva os usuários a experimentarem os produtos da Salesforce.
 
-To learn more about Next.js, take a look at the following resources:
+### Dados Estatísticos
+- Mostra estatísticas relacionadas ao uso do **Customer 360** pelos clientes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Principais Produtos do Customer 360
+- Descreve as principais nuvens (*Sales Cloud*, *Service Cloud*, *Marketing Cloud* e *Commerce Cloud*) e seus objetivos.
